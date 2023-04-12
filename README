@@ -1,0 +1,5 @@
+Script and figures for the paper "Killer prey: Temperature reverses future bacterial predation" 
+
+Prey killer.zip contains the code necessary to reproduce the analysis and the figures in the manuscript.
+	•	The Figure folder contains all figures from the manuscript and SI. 
+	•	prey_killing_predator_script.Rmd is the script used to perform the statistical analyses and create the figures and tables.
